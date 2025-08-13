@@ -38,6 +38,8 @@ Sempre buscando aprender novas tecnologias e criar produtos que combinem funcion
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="MySQL" width="48" height="48"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" alt="MySQL" width="48" height="48"/>
   <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg alt="MySQL" width="48" height="48"/>
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg alt="MySQL" width="48" height="48"/>
+  <img src=https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg alt="MySQL" width="60" height="60"/>
 </p>
 
 ---
